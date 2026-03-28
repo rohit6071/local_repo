@@ -4,3 +4,7 @@ a = 8
 b = 9
 print(a+b)
 print("enter your details")
+
+l = [1,2,3,4]
+for i in l:
+    print(i)
